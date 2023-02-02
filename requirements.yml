@@ -1,0 +1,6 @@
+---
+roles: []
+  # - name:
+  #   version:
+collections:
+  - junipernetworks.junos
